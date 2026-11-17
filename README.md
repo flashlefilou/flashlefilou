@@ -4,7 +4,7 @@
 
 **Recherche un stage de 10 à 12 semaines en développement logiciel à partir d'avril 2027, région de Montpellier ou d'Annecy.**
 
-🌐 [portfolio.flash-dev.online](https://portfolio.flash-dev.online/) · 💼 [LinkedIn](https://www.linkedin.com/in/anthony-merlin-8452ab316/) · ✉️ [anthomerlin74@gmail.com](mailto:anthomerlin74@gmail.com)
+🌐 [portfolio.flash-dev.online](https://portfolio.flash-dev.online/) · 💼 [LinkedIn](https://www.linkedin.com/in/anthony--merlin/) · ✉️ [anthomerlin74@gmail.com](mailto:anthomerlin74@gmail.com)
 
 ## Compétences
 
